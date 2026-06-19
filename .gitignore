@@ -1,0 +1,66 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+# Videos
+*.mp4
+*.mov
+*.avi
+
+# Documents
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Generated
+coverage/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+
+# Android
+android/.gradle/
+
+# iOS
+ios/Pods/
